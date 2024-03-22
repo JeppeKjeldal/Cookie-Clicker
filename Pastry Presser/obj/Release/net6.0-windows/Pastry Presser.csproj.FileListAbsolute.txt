@@ -1,0 +1,48 @@
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Content\3.xnb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Content\background.xnb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Content\button.xnb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Content\Cookie.xnb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Content\Dialog Box.xnb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Content\File.xnb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Content\granny.xnb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Content\Horno.xnb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Content\oga-blueroofinn.xnb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Content\sss.xnb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Content\wood.xnb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Pastry Presser.exe
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Pastry Presser.deps.json
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Pastry Presser.runtimeconfig.json
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Pastry Presser.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Pastry Presser.pdb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\SharpDX.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\bin\Release\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\obj\Release\net6.0-windows\Pastry Presser.csproj.AssemblyReference.cache
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\obj\Release\net6.0-windows\Pastry Presser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\obj\Release\net6.0-windows\Pastry Presser.AssemblyInfoInputs.cache
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\obj\Release\net6.0-windows\Pastry Presser.AssemblyInfo.cs
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\obj\Release\net6.0-windows\Pastry Presser.csproj.CoreCompileInputs.cache
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\obj\Release\net6.0-windows\Pastry Presser.csproj.CopyComplete
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\obj\Release\net6.0-windows\Pastry Presser.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\obj\Release\net6.0-windows\refint\Pastry Presser.dll
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\obj\Release\net6.0-windows\Pastry Presser.pdb
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\obj\Release\net6.0-windows\Pastry Presser.genruntimeconfig.cache
+C:\Users\Jeppe\source\repos\Pastry Presser\Pastry Presser\obj\Release\net6.0-windows\ref\Pastry Presser.dll

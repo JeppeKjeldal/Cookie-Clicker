@@ -1,0 +1,9 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/button.png","C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/bin/Windows/button.xnb","TextureProcessor","Texture2DContent",910,212261,0,1402005
+"C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/Cookie.png","C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/bin/Windows/Cookie.xnb","TextureProcessor","Texture2DContent",56265,1920085,0,0546755
+"C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/Dialog Box.png","C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/bin/Windows/Dialog Box.xnb","TextureProcessor","Texture2DContent",21642,160085,0,007008
+"C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/File.spritefont","C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/bin/Windows/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,0947666
+"C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/granny.png","C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/bin/Windows/granny.xnb","TextureProcessor","Texture2DContent",44146,31824085,0,6538818
+"C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/Horno.png","C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/bin/Windows/Horno.xnb","TextureProcessor","Texture2DContent",846,16101,0,0030432
+"C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/oga-blueroofinn.png","C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/bin/Windows/oga-blueroofinn.xnb","TextureProcessor","Texture2DContent",15023,267781,0,0081383
+"C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/wood.png","C:/Users/Jeppe/source/repos/Pastry Presser/Pastry Presser/Content/bin/Windows/wood.xnb","TextureProcessor","Texture2DContent",956478,7497685,0,1371346
